@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='pytest-mock-helper',
-    version='0.0.2',
+    version='0.1.0',
     description='Help you mock HTTP call and generate mock code',
     long_description=(open('README.md').read() +
                       open('CHANGELOG.md').read()),
