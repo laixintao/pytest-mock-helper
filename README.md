@@ -25,7 +25,7 @@ def test_requests_send(capsys):
     requests.get("https://httpbin.org")
 ```
 
-Run with `--blockhtp`
+Run with `--blockhttp`
 
 ```
 $ pytest tests/test_requests.py --blockhttp
