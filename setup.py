@@ -8,6 +8,7 @@ setup(
     description='Help you mock HTTP call and generate mock code',
     long_description=(open('README.md').read() +
                       open('CHANGELOG.md').read()),
+    url='https://github.com/laixintao/pytest-mock-helper',
     license='BSD',
     install_requires=['pytest'],
     py_modules=['pytest_mock_helper'],
